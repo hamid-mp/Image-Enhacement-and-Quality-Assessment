@@ -11,6 +11,6 @@ IEEE Transactions on Consumer Electronics, vol. 53, no. 4, pp. 1752–1758, Nov.
 # PCQI
 A Patch-Structure Representation Method for Quality Assessment of Contrast Changed Images
 ```
-@Shiqi Wang, Kede Ma, Hojatollah Yeganeh, Zhou Wang, and Weisi Lin
-IEEE Signal Processing Letters (SPL), vol. 22, no. 12, pp. 2387-2390, Dec. 2015.
+@S. Wang, K. Ma, H. Yeganeh, Z. Wang, and W. Lin, “A Patch-Structure Representation Method for Quality Assessment of Contrast Changed Images,”
+IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2387–2390, Dec. 2015.
 ```
