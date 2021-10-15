@@ -1,7 +1,7 @@
 
 ## Contrast Enhancement Methods
 # BPDHE
-Brightness Preserving Dynamic Histogram Equalization (BPDHE) python code
+Brightness Preserving Dynamic Histogram Equalization 
 
 ```
 @H. Ibrahim and N. Pik Kong, “Brightness Preserving Dynamic Histogram Equalization for Image Contrast Enhancement,”
